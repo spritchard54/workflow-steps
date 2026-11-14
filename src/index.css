@@ -11,3 +11,10 @@
   background-color: #0d6efd;
   color: white;
 }
+
+img {
+  max-height: 500px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  border: 1px solid lightgray;
+}
