@@ -1,4 +1,4 @@
-import viteImg from "../assets/ViteSetup.png";
+import viteSetup from "../assets/ViteSetup.png";
 import importantFiles from "../assets/importantFiles.png";
 import viteStart from "../assets/viteStartPage.jpeg";
 import appLoading from "../assets/appLoading.png";
@@ -106,7 +106,7 @@ export function ViteSetup() {
       </CodeBlock>
       <p>The . represents your current directory.</p>
       <p>Your project structure should look approximately like this:</p>
-      <img src={viteImg} alt="Vite folder confuration looks like this..." />
+      <img src={viteSetup} alt="Vite folder confuration looks like this..." />
       <p>Here are the most important files to understand:</p>
       <img src={importantFiles} alt="important files and what they do..." />
       <h3>Step 7: Start the development server</h3>
