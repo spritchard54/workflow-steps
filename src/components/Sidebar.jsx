@@ -13,8 +13,8 @@ export function Sidebar() {
         <NavLink to="/vite-setup" className="nav-link">
           Vite Setup
         </NavLink>
-        <NavLink to="/deployment" className="nav-link">
-          Deployment
+        <NavLink to="/render-deployments" className="nav-link">
+          Render Deployments
         </NavLink>
         <NavLink to="/troubleshooting" className="nav-link">
           Troubleshooting

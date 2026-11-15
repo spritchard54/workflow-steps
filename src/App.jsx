@@ -3,7 +3,7 @@ import { Layout } from "./components/Layout";
 import { Home } from "./pages/Home";
 import { GitWorkFlow } from "./pages/GitWorkFlow";
 import { ViteSetup } from "./pages/ViteSetup";
-import { Deployment } from "./pages/Deployment";
+import { RenderDeployments } from "./pages/RenderDeployments";
 import { Troubleshooting } from "./pages/Troubleshooting";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/git-workflow" element={<GitWorkFlow />} />
         <Route path="/vite-setup" element={<ViteSetup />} />
-        <Route path="/deployment" element={<Deployment />} />
+        <Route path="/render-deployments" element={<RenderDeployments />} />
         <Route path="/troubleshooting" element={<Troubleshooting />} />
       </Route>
     </Routes>
