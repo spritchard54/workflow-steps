@@ -8,6 +8,8 @@ import workFlow from "../assets/workFlow.png";
 export function RenderDeployments() {
   return (
     <>
+    <h1>Deploying to Render</h1>
+    <p>Most of my projects have been deployed to Render, but I have also used Heroku and Github pages. The steps below provide a simple guide to hosting a static site on Render.</p>
       <h3>1. Verify that your project builds locally</h3>
       <p>Before deploying, open your project in VS Code and run:</p>
       <pre>

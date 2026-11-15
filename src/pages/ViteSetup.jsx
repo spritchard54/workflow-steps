@@ -8,6 +8,7 @@ export function ViteSetup() {
   return (
     <>
       <h1>Vite Setup</h1>
+      <p>Below is a simple guide to creating a Vite project in VS Studio.</p>
       <h3>Step 1: Navigate to your projects directory</h3>
       <p>
         Open your terminal and navigate to the directory where you keep your
