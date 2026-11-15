@@ -18,3 +18,15 @@ img {
   margin-bottom: 15px;
   border: 1px solid lightgray;
 }
+
+td {
+  padding: 5px 0px;
+}
+
+.commandEl {
+  background-color: rgb(68, 68, 68);
+  color: whitesmoke;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
