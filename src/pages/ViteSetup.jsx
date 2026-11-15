@@ -1,4 +1,4 @@
-import viteSetup from "../assets/ViteSetup.png";
+import viteSetup from "../assets/viteSetup.png";
 import importantFiles from "../assets/importantFiles.png";
 import viteStart from "../assets/viteStartPage.jpeg";
 import appLoading from "../assets/appLoading.png";
