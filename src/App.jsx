@@ -5,6 +5,7 @@ import { GitWorkFlow } from "./pages/GitWorkFlow";
 import { ViteSetup } from "./pages/ViteSetup";
 import { RenderDeployments } from "./pages/RenderDeployments";
 import { Troubleshooting } from "./pages/Troubleshooting";
+import { CodeSnippets } from "./pages/CodeSnippets";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/vite-setup" element={<ViteSetup />} />
         <Route path="/render-deployments" element={<RenderDeployments />} />
         <Route path="/troubleshooting" element={<Troubleshooting />} />
+        <Route path="/code-snippets" element={<CodeSnippets />} />
       </Route>
     </Routes>
     //</BrowserRouter>

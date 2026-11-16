@@ -19,6 +19,9 @@ export function Sidebar() {
         <NavLink to="/troubleshooting" className="nav-link">
           Troubleshooting
         </NavLink>
+        <NavLink to="/code-snippets" className="nav-link">
+          Code Snippets
+        </NavLink>
       </nav>
     </>
   );
